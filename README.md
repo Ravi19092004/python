@@ -19,5 +19,5 @@ A simple script that displays the current hour and a corresponding greeting.
 To run the script, ensure you have Python installed and run the following command in your terminal:
 
 ```bash
-python "goodwish,py.py"
+python "goodwish.py"
 ```
